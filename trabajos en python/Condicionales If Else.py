@@ -12,7 +12,7 @@ Pais='Colombia'
 
 if Nombre =='sebastian' and Edad == 22 and Pais =='Colombia':
     print('Su nombre es', Nombre,'tiene',Edad,'y es de',Pais) 
-elif Nombre == 'Esteban'and not Edad==28:
+elif Nombre == 'sebastian'and not Edad==22:
     print('Su nombre es sebastian y no tiene 22 años')
 elif Nombre != 'sebastian'and Edad == 22:
     print('Su nombre no es sebastian y tiene 22 años')

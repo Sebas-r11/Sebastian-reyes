@@ -3,9 +3,9 @@ for nombre in nombres:
     print(nombre)
 #Diccionarios
 Personas=[]#lista vacia se llena con a y b
-a={'nombre':'Esteban', 'Edad': 28}
-b={'nombre':'Hans', 'Edad': 27}
-c={'nombre':'Jhon', 'Edad': 41}
+a={'nombre':'sebastian', 'Edad': 22}
+b={'nombre':'andres', 'Edad': 22}
+c={'nombre':'daniel', 'Edad': 18}
 d={'nombre':'Juan Pablo', 'Edad': 23}
 Personas.append(a)#append: permite que los datos se agregen a la lista vacia
 Personas.append(b)

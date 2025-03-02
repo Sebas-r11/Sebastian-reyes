@@ -1,4 +1,4 @@
-nombres=['Esteban','Hans','Jhon','Juan Pablo \n\n']
+nombres=['sebastian','andres','daniel','Juan Pablo \n\n']
 for nombre in nombres:
     print(nombre)
 #Diccionarios

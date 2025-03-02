@@ -6,15 +6,15 @@ else:
 
 #Concatenar condiciones 
 
-Nombre = 'Esteban'
-Edad = 28
+Nombre = 'sebastian'
+Edad = 22
 Pais='Colombia'
 
-if Nombre =='Esteban' and Edad == 28 and Pais =='Colombia':
+if Nombre =='sebastian' and Edad == 22 and Pais =='Colombia':
     print('Su nombre es', Nombre,'tiene',Edad,'y es de',Pais) 
 elif Nombre == 'Esteban'and not Edad==28:
-    print('Su nombre es Esteban y no tiene 28 años')
-elif Nombre != 'Esteban'and Edad == 28:
-    print('Su nombre no es Esteban y tiene 28 años')
+    print('Su nombre es sebastian y no tiene 22 años')
+elif Nombre != 'sebastian'and Edad == 22:
+    print('Su nombre no es sebastian y tiene 22 años')
 else:
-    print('No se llama Esteban ni tiene 28 años')         
+    print('No se llama sebastian ni tiene 22 años')         
